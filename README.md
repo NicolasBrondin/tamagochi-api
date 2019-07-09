@@ -1,8 +1,13 @@
-# TO-DO
+# INSTALL
 
-- Finir le système scolaire
+ - Clone the project
+ - cd tamagochi-api
+ - npm install
+ - node index.js  
+
+# POSSIBLE IMPROVEMENTS
+
 - Remplacer aléatoire par répartition gaussienne
-- Ajouter la religion
 
 # DONE
 
