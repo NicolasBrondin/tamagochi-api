@@ -9,7 +9,7 @@
   "dependencies": {},
   "devDependencies": {
     "nodemon": "1.18.4",
-    "express": "4.15.2",
+    "express": "4.19.2",
     "cors": "latest"
   },
   "keywords": []
